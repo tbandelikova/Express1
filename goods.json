@@ -1,0 +1,12 @@
+[
+    {"name": "Dress", "price": 120, "amount": 50, "id": 1},
+    {"name": "Skirt", "price": 100, "amount": 100, "id": 2},
+    {"name": "Pant", "price": 180, "amount": 105, "id": 3},
+    {"name": "T-shirt", "price": 65, "amount": 110, "id": 4},
+    {"name": "Vest", "price": 150, "amount": 40, "id": 5},
+    {"name": "Sweater", "price": 160, "amount": 60, "id": 6},
+    {"name": "Coat", "price": 250, "amount": 150, "id": 7},
+    {"name": "Jacket", "price": 170, "amount": 70, "id": 8},
+    {"name": "Short", "price": 110, "amount": 10, "id": 9},
+    {"name": "Socks", "price": 15, "amount": 200, "id": 10}
+]
